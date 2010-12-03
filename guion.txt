@@ -11,10 +11,10 @@ communicating something with their eyes... without
 expression.  Finally Batty breaks the silence.
 
                         BATTY
-          I've seen things...
-                 (long pause)
-          seen things you little people
-          wouldn't believe... Attack ships
+          Gauzak ikusi ditut                 
+	  (geldialdi luzea)
+          gauzak zuek jende txikia sinistuko 
+	  ez zenutenak... Attack ships
           on fire off the shoulder of Orion
           bright as magnesium... I rode on
           the back decks of a blinker and
@@ -24,6 +24,8 @@ expression.  Finally Batty breaks the silence.
           all those moments... they'll be gone.
 
 Batty holds Deckard's eyes like a hypnotist.
+
+Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
                                            CUT TO:
 
@@ -41,7 +43,12 @@ The pigeon flies off.
 
 Batty doesn't move.  Alive or dead?
 
-                                           CUT TO:
+                   
+They stare at each other for a long time in silence,
+communicating something with their eyes... without
+expression.  Finally Batty breaks the silence.
+
+                        CUT TO:
 
 
 EXT. THE SECOND ROOF - DAWN
@@ -58,4 +65,5 @@ looking down at the dead body of Batty.
           though he loved life very much...
           every second of it... even the
           pain. He loved not only his life but all lives
+	  Hi ha molta maldat en aquest món!
 
